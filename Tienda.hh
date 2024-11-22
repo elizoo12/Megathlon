@@ -14,7 +14,7 @@ private:
 
     BT salas;
 
-
+    int n_clientes;
     Caja *cajas;
 
 
